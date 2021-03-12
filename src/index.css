@@ -1,18 +1,7 @@
 :root {
-  font-size: 16px;
-  font-family: "Roboto slab";
-  --text-primary: #b6b6b6;
-  --text-secondary: #ececec;
-  --bg-primary: #23232e;
-  --bg-secondary: #141418;
-  --transition-speed: 600ms;
-}
-
-body {
-  color: black;
-  background-color: white;
-  margin: 0;
-  padding: 0;
+    --bs-font-sans-serif: 'Poppins', sans-serif;
+    --bs-font-monospace: 'Raleway', sans-serif;
+    --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
 }
 
 body::-webkit-scrollbar {
@@ -24,5 +13,5 @@ body::-webkit-scrollbar-track {
 }
 
 body::-webkit-scrollbar-thumb {
-  background: #6649b8;
+  background: #6e6e6e;
 }

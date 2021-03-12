@@ -1,0 +1,8 @@
+export { default as Title } from "./title"
+export { default as Objective } from "./objective"
+export { default as Profile } from "./profProfile"
+export { default as Experience } from "./experience"
+export { default as Skills } from "./skills"
+export { default as Grad } from "./grad"
+export { default as Personal } from "./personal"
+export { default as Projects } from "./projects"
