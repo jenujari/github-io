@@ -18,16 +18,19 @@ const Profile = () => {
         <div className="col-sm">
           <ul>
             <li className="fs-5">
-              {"An astute professional with 9+ years of experience in Web Application Development."}
+              {"An astute professional with 9+ years of experience in Fullstack Web Application Development."}
             </li>
             <li className="fs-5">
-              {"Presently associated with "} <b>{"Crest info-systems Pvt. Ltd."}</b>
+              {"Presently associated with "} <b>{"Tata Consultancy Services Pvt. Ltd."}</b>
             </li>
             <li className="fs-5">
               {"Expertise in development of product based on client requirements ensuring optimal utilization of technology and strictly adhering to t  he "}
               <b>
                 {"Development & Coding Standards."}
               </b>
+            </li>
+            <li className="fs-5">
+              {"Have working expiriyance in developing apps for Supply chain, Banking and finance industry, online booking systems, e-commerce domains, and other domains."}
             </li>
           </ul>
         </div>

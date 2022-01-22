@@ -18,16 +18,19 @@ const Experience = () => {
         <div className="col-sm">
           <ul>
             <li className="fs-5">
-              {"Since Oct ’16 Crest info-systems Pvt. Ltd. as Sr web developer."}
+              {"Since Aug ’21 "}<b>{"Tata Consultancy Services Pvt. Ltd."}</b>{" as Assistant Consultant."}
             </li>
             <li className="fs-5">
-              {"Since Nov ’15 to Oct 16 UNO India Dev Co as Sr web developer"} 
+              {"Since Oct ’16 to July 21 "}<b>{"Crest info-systems Pvt. Ltd"}</b>{" as Sr web developer"} 
             </li>
             <li className="fs-5">
-              {"Since Jan ’14 to May ‘15 Knack Technology Pvt. Ltd as Jr web developer."}
+              {"Since July ’15 to Oct 16 "}<b>{"UNO India Dev Co"}</b>{" as Sr web developer"} 
             </li>
             <li className="fs-5">
-              {"Since Jan ’14 to May ‘15 Knack Technology Pvt. Ltd as Jr web developer."} 
+              {"Since Jan ’14 to June ‘15 "}<b>{"Knack Technology Pvt. Ltd"}</b>{" as Jr. Software Developper."}
+            </li>
+            <li className="fs-5">
+              {"Since Oct ’12 to Dec ‘13 "}<b>{"Tech Ascender Pvt. Ltd."}</b>{" as Jr. Software Developper."} 
             </li>
           </ul>
         </div>

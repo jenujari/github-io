@@ -18,9 +18,12 @@ const Grad = () => {
         <div className="col-sm">
           <ul>
             <li className="fs-5">
-              {"Bachelor of Engineering in "} <b>{"Electronics and Communications"}</b> {" from sarvajanik college of engineering and technology (Gujarat Technology University) in 2012 and secured second class."}
+              <b>{"Application developr"}</b>{" certificate from "}<b>{"ITSource Technologies Limited"}</b> {" in 2012 for using "}
+              <b>{"Sql Server, C#, Java technologies"}</b>
             </li>
-            
+            <li className="fs-5">
+              <b>{"Bachelor of Engineering"}</b>{" in "} <b>{"Electronics and Communications"}</b> {" from sarvajanik college of engineering and technology (Gujarat Technology University) in 2012 and secured second class."}
+            </li>
             <li className="fs-5">
               {"12"}<sup>{"th"}</sup>{" from GSEB, Gujarat in 2008 and secured second class"}
             </li>

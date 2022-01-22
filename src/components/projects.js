@@ -19,7 +19,7 @@ const Projects = () => {
           <ul>
 
             <li>
-              <b>Customer facing booking mobile app in React Native <i>(currently working on)</i></b>
+              <b>Customer facing booking mobile app in React Native</b>
             </li>
             <ul className="mb-3">
               <li>
@@ -31,7 +31,7 @@ const Projects = () => {
             </ul>
 
             <li>
-              <b>E-Commerce and Entity tracking system <i>(currently working on)</i></b>
+              <b>E-Commerce and Entity tracking system</b>
             </li>
             <ul className="mb-3">
               <li>
@@ -44,7 +44,7 @@ const Projects = () => {
             </ul>
 
             <li>
-              <b>Real time chat and messages broadcast <i>(currently working on)</i></b>
+              <b>Real time chat and messages broadcast</b>
             </li>
             <ul className="mb-3">
               <li>

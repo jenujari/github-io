@@ -18,19 +18,19 @@ const Skills = () => {
         <div className="col-sm">
           <ul>
             <li className="fs-5">
-              {"Skills "} <b>{"PHP7, Nodejs, Golang, MySQL, ReactJS,"}</b> {" JavaScript, HTML5, CSS3."}
+              {"Skills "} <b>{"PHP7, Nodejs, Golang, MySQL, ReactJS, Typescript, "}</b> {"  HTML5, CSS3."}
             </li>
             <li className="fs-5">
-              {"Usage of development tools and library like jQuery, "} <b>{"Bootstrap, Jenkins, Gulp, Webpack, Babel."}</b>
+              {"Usage of development tools and library like jQuery, "} <b>{"Bootstrap, Tailwind, Gulp, Webpack, Babel."}</b>
             </li>
             <li className="fs-5">
-              {"Experienced in using "} <b>{"Code igniter, Laravel Framework (MVC)"}</b> {" and core PHP to develop a web application."}
+              {"Usage of version control tools like "}<b>{"Git, Github, Bitbucket, Jenkins, Codepipeline, CI/CD."}</b>
             </li>
             <li className="fs-5">
-              {"OOPS PHP development"}
+              {"Expertise in object oriented programing and "}<b>{"design principles concepts."}</b>
             </li>
             <li className="fs-5">
-              {"Integration Ability: Expertise in integrating third party web services"}
+              {"Integration Ability: Expertise in integrating "}<b>{"third party web services"}</b>
             </li>
             <li className="fs-5">
               {"AWS services like IOT, "}
@@ -39,9 +39,8 @@ const Skills = () => {
               </b>
               {" S3, Route52, "}
               <b>
-                {"DynamoDB, API Gateway, "}
+                {"DynamoDB, API Gateway, EC2 instances configuration"}
               </b>
-              {" EC2 instances configuration"}
             </li>
             <li className="fs-5">
               {"Platforms: "}
