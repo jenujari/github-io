@@ -17,6 +17,12 @@ const Grad = () => {
       <div className="row pt-2">
         <div className="col-sm">
           <ul>
+          <li className="fs-5">
+            <b>Golang</b> developer certified program provided by vskils , Certification by Govt. of India
+          </li>
+          <li className="fs-5">
+            Professional certificate program in <b>Blockchain</b> from <b>IIT Kanpur</b> program delivered by Simplilearn in 2022.
+          </li>
             <li className="fs-5">
               <b>{"Application developr"}</b>{" certificate from "}<b>{"ITSource Technologies Limited"}</b> {" in 2012 for using "}
               <b>{"Sql Server, C#, Java technologies"}</b>

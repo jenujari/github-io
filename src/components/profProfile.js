@@ -21,7 +21,7 @@ const Profile = () => {
               {"An astute professional with 9+ years of experience in Fullstack Web Application Development."}
             </li>
             <li className="fs-5">
-              {"Presently associated with "} <b>{"Tata Consultancy Services Pvt. Ltd."}</b>
+              {"Presently associated with "} <b>{"Everledger Systems Pvt Limited"}</b>
             </li>
             <li className="fs-5">
               {"Expertise in development of product based on client requirements ensuring optimal utilization of technology and strictly adhering to t  he "}

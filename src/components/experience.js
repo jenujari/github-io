@@ -18,19 +18,22 @@ const Experience = () => {
         <div className="col-sm">
           <ul>
             <li className="fs-5">
-              {"Since Aug ’21 "}<b>{"Tata Consultancy Services Pvt. Ltd."}</b>{" as Assistant Consultant."}
+              {"Since Jan 2022 "}<b>{"Everledger Systems Pvt Limited"}</b>{" as Senior Software Engineer"}
             </li>
             <li className="fs-5">
-              {"Since Oct ’16 to July 21 "}<b>{"Crest info-systems Pvt. Ltd"}</b>{" as Sr web developer"} 
+              {"Since Aug 2021 to Dec 2022 "}<b>{"Tata Consultancy Services Pvt. Ltd."}</b>{" as Assistant Consultant."}
             </li>
             <li className="fs-5">
-              {"Since July ’15 to Oct 16 "}<b>{"UNO India Dev Co"}</b>{" as Sr web developer"} 
+              {"Since Oct 2016 to Jul 2021 "}<b>{"Crest info-systems Pvt. Ltd"}</b>{" as Sr web developer"} 
             </li>
             <li className="fs-5">
-              {"Since Jan ’14 to June ‘15 "}<b>{"Knack Technology Pvt. Ltd"}</b>{" as Jr. Software Developper."}
+              {"Since Jul 2015 to Oct 2016 "}<b>{"UNO India Dev Co"}</b>{" as Sr web developer"} 
             </li>
             <li className="fs-5">
-              {"Since Oct ’12 to Dec ‘13 "}<b>{"Tech Ascender Pvt. Ltd."}</b>{" as Jr. Software Developper."} 
+              {"Since Jan 2014 to Jun 2015 "}<b>{"Knack Technology Pvt. Ltd"}</b>{" as Jr. Software Developper."}
+            </li>
+            <li className="fs-5">
+              {"Since Oct 2012 to Dec 2013 "}<b>{"Tech Ascender Pvt. Ltd."}</b>{" as Jr. Software Developper."} 
             </li>
           </ul>
         </div>

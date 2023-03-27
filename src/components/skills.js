@@ -21,6 +21,9 @@ const Skills = () => {
               {"Skills "} <b>{"PHP7, Nodejs, Golang, MySQL, ReactJS, Typescript, "}</b> {"  HTML5, CSS3."}
             </li>
             <li className="fs-5">
+              Mirco service container orchestration using <b>Docker and Kubernetes.</b>
+            </li>
+            <li className="fs-5">
               {"Usage of development tools and library like jQuery, "} <b>{"Bootstrap, Tailwind, Gulp, Webpack, Babel."}</b>
             </li>
             <li className="fs-5">
