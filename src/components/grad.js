@@ -18,10 +18,17 @@ const Grad = () => {
         <div className="col-sm">
           <ul>
           <li className="fs-5">
-            <b>Golang</b> developer certified program provided by vskils , Certification by Govt. of India
+            <a target="_blank" href="https://success.simplilearn.com/10755ed1-ab69-4e74-9075-b428fc0a8ed2" rel="noreferrer"><b>Devops</b></a> certificate from Simplilernt that involves CI/CD pipeline building, Docker, Kubernetes (CKAD).
           </li>
           <li className="fs-5">
-            Professional certificate program in <b>Blockchain</b> from <b>IIT Kanpur</b> program delivered by Simplilearn in 2022.
+            <a href="https://www.vskills.in/certification/99801-go-language-professional-jenish-jariwala" target="_blank" rel="noreferrer"><b>Golang</b></a> developer certified program provided by vskils , Certification by Govt. of India
+          </li>
+          <li className="fs-5">
+            Professional certificate program in  &nbsp;
+            <a target="_blank" href="https://success.simplilearn.com/d6809a3f-c8bc-48c7-b350-f7ab7ea09ad0#gs.5hnbuj" rel="noreferrer">
+            <b>Blockchain</b>
+            </a> &nbsp;
+             from <b>IIT Kanpur</b> program delivered by Simplilearn in 2022.
           </li>
             <li className="fs-5">
               <b>{"Application developr"}</b>{" certificate from "}<b>{"ITSource Technologies Limited"}</b> {" in 2012 for using "}

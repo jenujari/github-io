@@ -18,16 +18,16 @@ const Skills = () => {
         <div className="col-sm">
           <ul>
             <li className="fs-5">
-              {"Skills "} <b>{"PHP7, Nodejs, Golang, MySQL, ReactJS, Typescript, "}</b> {"  HTML5, CSS3."}
+              {"Skills "} <b>{" Nodejs, Golang, MySQL/PostgreSQL, MongoDB, ReactJS, Typescript, "}</b> {"  HTML5, CSS3."}
             </li>
             <li className="fs-5">
               Mirco service container orchestration using <b>Docker and Kubernetes.</b>
             </li>
             <li className="fs-5">
-              {"Usage of development tools and library like jQuery, "} <b>{"Bootstrap, Tailwind, Gulp, Webpack, Babel."}</b>
+              {"Usage of development tools and library like jQuery, knokoutjs "} <b>{"Bootstrap, Tailwind, Webpack, Babel."}</b>
             </li>
             <li className="fs-5">
-              {"Usage of version control tools like "}<b>{"Git, Github, Bitbucket, Jenkins, Codepipeline, CI/CD."}</b>
+              {"Usage of version control tools like "}<b>{"Git, Github/Bitbucket, Docker, Kubernetes, Jenkins, Codepipeline, CI/CD."}</b>
             </li>
             <li className="fs-5">
               {"Expertise in object oriented programing and "}<b>{"design principles concepts."}</b>
